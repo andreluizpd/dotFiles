@@ -31,5 +31,5 @@ Meu repositório de código para configuração do Sublime Text 3 e Atom.
 #### UI Theme
 Atom Material
 
-#### Syntax THeme
+#### Syntax Theme
 Atom Material
